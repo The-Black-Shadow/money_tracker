@@ -4,8 +4,9 @@ Money Tracker is a Flutter application that helps you manage your finances by tr
 
 ## Features
 
-- Add transactions
-- View transaction history
+- Add transactions (both income and expense with source name)
+- View transaction history with date
+- View total remaing money
 
 ## Getting Started
 
